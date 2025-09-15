@@ -1,0 +1,8 @@
+{
+    "key":{
+        "GP10" : ["Keycode.SHIFT", "Keycode.PRINT_SCREEN"],
+        "GP11" : ["Keycode.APPLICATION"],
+        "GP12" : ["Keycode.PAUSE"],
+        "GP13" : ["Keycode.HOME"]
+    }
+}
